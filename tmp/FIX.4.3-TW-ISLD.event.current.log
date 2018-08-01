@@ -1,0 +1,528 @@
+2018/07/30 10:59:56.039132 Created session
+2018/07/30 10:59:56.040523 Connecting to: 127.0.0.1:5001
+2018/07/30 10:59:56.041842 Sending logon request
+2018/07/30 10:59:56.043059 Received logon response
+2018/07/30 11:21:17.042780 Received logout request
+2018/07/30 11:21:17.042823 Sending logout response
+2018/07/30 11:21:17.042894 Disconnected
+2018/07/30 11:21:17.043086 Reconnecting in 30s
+2018/07/30 11:21:47.049275 Connecting to: 127.0.0.1:5001
+2018/07/30 11:21:47.049857 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:21:47.049973 Reconnecting in 30s
+2018/07/30 11:22:17.063928 Connecting to: 127.0.0.1:5001
+2018/07/30 11:22:17.064828 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:22:17.064861 Reconnecting in 30s
+2018/07/30 11:22:47.070400 Connecting to: 127.0.0.1:5001
+2018/07/30 11:22:47.070695 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:22:47.070724 Reconnecting in 30s
+2018/07/30 11:23:17.077170 Connecting to: 127.0.0.1:5001
+2018/07/30 11:23:17.077440 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:23:17.077464 Reconnecting in 30s
+2018/07/30 11:23:47.083751 Connecting to: 127.0.0.1:5001
+2018/07/30 11:23:47.084277 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:23:47.084339 Reconnecting in 30s
+2018/07/30 11:24:17.090868 Connecting to: 127.0.0.1:5001
+2018/07/30 11:24:17.091344 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:24:17.091410 Reconnecting in 30s
+2018/07/30 11:24:47.097729 Connecting to: 127.0.0.1:5001
+2018/07/30 11:24:47.098297 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:24:47.098390 Reconnecting in 30s
+2018/07/30 11:25:17.104425 Connecting to: 127.0.0.1:5001
+2018/07/30 11:25:17.105109 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:25:17.105150 Reconnecting in 30s
+2018/07/30 11:25:47.107391 Connecting to: 127.0.0.1:5001
+2018/07/30 11:25:47.107649 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:25:47.107697 Reconnecting in 30s
+2018/07/30 11:26:17.110971 Connecting to: 127.0.0.1:5001
+2018/07/30 11:26:17.111166 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:26:17.111211 Reconnecting in 30s
+2018/07/30 11:26:47.113895 Connecting to: 127.0.0.1:5001
+2018/07/30 11:26:47.114254 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:26:47.114359 Reconnecting in 30s
+2018/07/30 11:27:17.120967 Connecting to: 127.0.0.1:5001
+2018/07/30 11:27:17.121265 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:27:17.121310 Reconnecting in 30s
+2018/07/30 11:27:47.124868 Connecting to: 127.0.0.1:5001
+2018/07/30 11:27:47.125328 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:27:47.125347 Reconnecting in 30s
+2018/07/30 11:28:17.127480 Connecting to: 127.0.0.1:5001
+2018/07/30 11:28:17.127665 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:28:17.127698 Reconnecting in 30s
+2018/07/30 11:28:47.128812 Connecting to: 127.0.0.1:5001
+2018/07/30 11:28:47.129421 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:28:47.129586 Reconnecting in 30s
+2018/07/30 11:29:17.132410 Connecting to: 127.0.0.1:5001
+2018/07/30 11:29:17.133349 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:29:17.133398 Reconnecting in 30s
+2018/07/30 11:29:47.136379 Connecting to: 127.0.0.1:5001
+2018/07/30 11:29:47.136857 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:29:47.136941 Reconnecting in 30s
+2018/07/30 11:30:17.138325 Connecting to: 127.0.0.1:5001
+2018/07/30 11:30:17.138908 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:30:17.138967 Reconnecting in 30s
+2018/07/30 11:30:47.143302 Connecting to: 127.0.0.1:5001
+2018/07/30 11:30:47.144459 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:30:47.144503 Reconnecting in 30s
+2018/07/30 11:31:17.150080 Connecting to: 127.0.0.1:5001
+2018/07/30 11:31:17.150322 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:31:17.150387 Reconnecting in 30s
+2018/07/30 11:31:47.153266 Connecting to: 127.0.0.1:5001
+2018/07/30 11:31:47.153767 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:31:47.153813 Reconnecting in 30s
+2018/07/30 11:32:17.155031 Connecting to: 127.0.0.1:5001
+2018/07/30 11:32:17.155405 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:32:17.155492 Reconnecting in 30s
+2018/07/30 11:32:47.162042 Connecting to: 127.0.0.1:5001
+2018/07/30 11:32:47.162555 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:32:47.162600 Reconnecting in 30s
+2018/07/30 11:33:17.168065 Connecting to: 127.0.0.1:5001
+2018/07/30 11:33:17.168745 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:33:17.168785 Reconnecting in 30s
+2018/07/30 11:33:47.175447 Connecting to: 127.0.0.1:5001
+2018/07/30 11:33:47.175712 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:33:47.175772 Reconnecting in 30s
+2018/07/30 11:34:17.181745 Connecting to: 127.0.0.1:5001
+2018/07/30 11:34:17.182120 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:34:17.182142 Reconnecting in 30s
+2018/07/30 11:34:47.183642 Connecting to: 127.0.0.1:5001
+2018/07/30 11:34:47.183949 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:34:47.184025 Reconnecting in 30s
+2018/07/30 11:35:17.185222 Connecting to: 127.0.0.1:5001
+2018/07/30 11:35:17.185509 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:35:17.185571 Reconnecting in 30s
+2018/07/30 11:35:47.191808 Connecting to: 127.0.0.1:5001
+2018/07/30 11:35:47.192133 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:35:47.192175 Reconnecting in 30s
+2018/07/30 11:36:17.198170 Connecting to: 127.0.0.1:5001
+2018/07/30 11:36:17.198572 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:36:17.198644 Reconnecting in 30s
+2018/07/30 11:36:47.209972 Connecting to: 127.0.0.1:5001
+2018/07/30 11:36:47.210447 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 11:36:47.210509 Reconnecting in 30s
+2018/07/30 12:57:36.327573 Connecting to: 127.0.0.1:5001
+2018/07/30 12:57:36.327877 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 12:57:36.327909 Reconnecting in 30s
+2018/07/30 12:58:06.332438 Connecting to: 127.0.0.1:5001
+2018/07/30 12:58:06.333186 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 12:58:06.333233 Reconnecting in 30s
+2018/07/30 12:58:36.339222 Connecting to: 127.0.0.1:5001
+2018/07/30 12:58:36.339770 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 12:58:36.339811 Reconnecting in 30s
+2018/07/30 12:59:06.343746 Connecting to: 127.0.0.1:5001
+2018/07/30 12:59:06.344309 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 12:59:06.344370 Reconnecting in 30s
+2018/07/30 12:59:36.350749 Connecting to: 127.0.0.1:5001
+2018/07/30 12:59:36.351090 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 12:59:36.351137 Reconnecting in 30s
+2018/07/30 13:00:06.352380 Connecting to: 127.0.0.1:5001
+2018/07/30 13:00:06.352874 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:00:06.352923 Reconnecting in 30s
+2018/07/30 13:00:36.355025 Connecting to: 127.0.0.1:5001
+2018/07/30 13:00:36.355516 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:00:36.355571 Reconnecting in 30s
+2018/07/30 13:01:06.360271 Connecting to: 127.0.0.1:5001
+2018/07/30 13:01:06.360599 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:01:06.361078 Reconnecting in 30s
+2018/07/30 13:01:36.367233 Connecting to: 127.0.0.1:5001
+2018/07/30 13:01:36.367660 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:01:36.367703 Reconnecting in 30s
+2018/07/30 13:02:06.373660 Connecting to: 127.0.0.1:5001
+2018/07/30 13:02:06.374465 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:02:06.374504 Reconnecting in 30s
+2018/07/30 13:02:36.380224 Connecting to: 127.0.0.1:5001
+2018/07/30 13:02:36.380861 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:02:36.380910 Reconnecting in 30s
+2018/07/30 13:03:06.384618 Connecting to: 127.0.0.1:5001
+2018/07/30 13:03:06.385137 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:03:06.385190 Reconnecting in 30s
+2018/07/30 13:03:36.389564 Connecting to: 127.0.0.1:5001
+2018/07/30 13:03:36.389935 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:03:36.389991 Reconnecting in 30s
+2018/07/30 13:04:06.395466 Connecting to: 127.0.0.1:5001
+2018/07/30 13:04:06.395910 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:04:06.395959 Reconnecting in 30s
+2018/07/30 13:04:36.401158 Connecting to: 127.0.0.1:5001
+2018/07/30 13:04:36.401854 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:04:36.401910 Reconnecting in 30s
+2018/07/30 13:05:06.407718 Connecting to: 127.0.0.1:5001
+2018/07/30 13:05:06.407993 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:05:06.408077 Reconnecting in 30s
+2018/07/30 13:05:36.409991 Connecting to: 127.0.0.1:5001
+2018/07/30 13:05:36.410541 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:05:36.410592 Reconnecting in 30s
+2018/07/30 13:06:06.412238 Connecting to: 127.0.0.1:5001
+2018/07/30 13:06:06.412534 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:06:06.412588 Reconnecting in 30s
+2018/07/30 13:06:36.418274 Connecting to: 127.0.0.1:5001
+2018/07/30 13:06:36.419011 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:06:36.419107 Reconnecting in 30s
+2018/07/30 13:07:06.425291 Connecting to: 127.0.0.1:5001
+2018/07/30 13:07:06.425925 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:07:06.425968 Reconnecting in 30s
+2018/07/30 13:07:36.432041 Connecting to: 127.0.0.1:5001
+2018/07/30 13:07:36.432561 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:07:36.432613 Reconnecting in 30s
+2018/07/30 13:08:06.439250 Connecting to: 127.0.0.1:5001
+2018/07/30 13:08:06.439613 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:08:06.439661 Reconnecting in 30s
+2018/07/30 13:08:36.441208 Connecting to: 127.0.0.1:5001
+2018/07/30 13:08:36.442235 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:08:36.442288 Reconnecting in 30s
+2018/07/30 13:09:06.445832 Connecting to: 127.0.0.1:5001
+2018/07/30 13:09:06.447455 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:09:06.447515 Reconnecting in 30s
+2018/07/30 13:09:36.453481 Connecting to: 127.0.0.1:5001
+2018/07/30 13:09:36.454259 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:09:36.454310 Reconnecting in 30s
+2018/07/30 13:10:06.456856 Connecting to: 127.0.0.1:5001
+2018/07/30 13:10:06.457273 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:10:06.457330 Reconnecting in 30s
+2018/07/30 13:10:36.463508 Connecting to: 127.0.0.1:5001
+2018/07/30 13:10:36.464165 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:10:36.464205 Reconnecting in 30s
+2018/07/30 13:11:06.468354 Connecting to: 127.0.0.1:5001
+2018/07/30 13:11:06.469121 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:11:06.469572 Reconnecting in 30s
+2018/07/30 13:11:36.473157 Connecting to: 127.0.0.1:5001
+2018/07/30 13:11:36.474102 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:11:36.474177 Reconnecting in 30s
+2018/07/30 13:12:06.480456 Connecting to: 127.0.0.1:5001
+2018/07/30 13:12:06.481242 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:12:06.481291 Reconnecting in 30s
+2018/07/30 13:12:29.007873 Connecting to: 127.0.0.1:5001
+2018/07/30 13:12:29.008283 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:12:29.008342 Reconnecting in 30s
+2018/07/30 13:12:59.014688 Connecting to: 127.0.0.1:5001
+2018/07/30 13:12:59.015330 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:12:59.015384 Reconnecting in 30s
+2018/07/30 13:13:29.021848 Connecting to: 127.0.0.1:5001
+2018/07/30 13:13:29.022076 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:13:29.022108 Reconnecting in 30s
+2018/07/30 13:13:59.023118 Connecting to: 127.0.0.1:5001
+2018/07/30 13:13:59.023378 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:13:59.023414 Reconnecting in 30s
+2018/07/30 13:14:29.028299 Connecting to: 127.0.0.1:5001
+2018/07/30 13:14:29.028603 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:14:29.028646 Reconnecting in 30s
+2018/07/30 13:14:59.034513 Connecting to: 127.0.0.1:5001
+2018/07/30 13:14:59.035775 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:14:59.035829 Reconnecting in 30s
+2018/07/30 13:15:29.038291 Connecting to: 127.0.0.1:5001
+2018/07/30 13:15:29.039469 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:15:29.039519 Reconnecting in 30s
+2018/07/30 13:15:59.045715 Connecting to: 127.0.0.1:5001
+2018/07/30 13:15:59.047155 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:15:59.047215 Reconnecting in 30s
+2018/07/30 13:16:29.051456 Connecting to: 127.0.0.1:5001
+2018/07/30 13:16:29.052605 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:16:29.052651 Reconnecting in 30s
+2018/07/30 13:16:59.056796 Connecting to: 127.0.0.1:5001
+2018/07/30 13:16:59.057617 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:16:59.057675 Reconnecting in 30s
+2018/07/30 13:17:29.060318 Connecting to: 127.0.0.1:5001
+2018/07/30 13:17:29.060925 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:17:29.060995 Reconnecting in 30s
+2018/07/30 13:17:59.066841 Connecting to: 127.0.0.1:5001
+2018/07/30 13:17:59.067140 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:17:59.067205 Reconnecting in 30s
+2018/07/30 13:18:29.073367 Connecting to: 127.0.0.1:5001
+2018/07/30 13:18:29.074679 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:18:29.074735 Reconnecting in 30s
+2018/07/30 13:18:59.080235 Connecting to: 127.0.0.1:5001
+2018/07/30 13:18:59.081217 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:18:59.081295 Reconnecting in 30s
+2018/07/30 13:19:29.084877 Connecting to: 127.0.0.1:5001
+2018/07/30 13:19:29.086061 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:19:29.086129 Reconnecting in 30s
+2018/07/30 13:19:59.092677 Connecting to: 127.0.0.1:5001
+2018/07/30 13:19:59.094069 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:19:59.094172 Reconnecting in 30s
+2018/07/30 13:20:29.095288 Connecting to: 127.0.0.1:5001
+2018/07/30 13:20:29.095872 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:20:29.095917 Reconnecting in 30s
+2018/07/30 13:20:59.102199 Connecting to: 127.0.0.1:5001
+2018/07/30 13:20:59.102785 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:20:59.102836 Reconnecting in 30s
+2018/07/30 13:21:29.108835 Connecting to: 127.0.0.1:5001
+2018/07/30 13:21:29.110003 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:21:29.110053 Reconnecting in 30s
+2018/07/30 13:21:59.114082 Connecting to: 127.0.0.1:5001
+2018/07/30 13:21:59.114502 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:21:59.114595 Reconnecting in 30s
+2018/07/30 13:22:29.117301 Connecting to: 127.0.0.1:5001
+2018/07/30 13:22:29.117862 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:22:29.117926 Reconnecting in 30s
+2018/07/30 13:22:59.123919 Connecting to: 127.0.0.1:5001
+2018/07/30 13:22:59.124429 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:22:59.124483 Reconnecting in 30s
+2018/07/30 13:23:29.130996 Connecting to: 127.0.0.1:5001
+2018/07/30 13:23:29.132475 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:23:29.132539 Reconnecting in 30s
+2018/07/30 13:23:59.137665 Connecting to: 127.0.0.1:5001
+2018/07/30 13:23:59.138937 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:23:59.138992 Reconnecting in 30s
+2018/07/30 13:24:29.140354 Connecting to: 127.0.0.1:5001
+2018/07/30 13:24:29.141717 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:24:29.141751 Reconnecting in 30s
+2018/07/30 13:24:59.148273 Connecting to: 127.0.0.1:5001
+2018/07/30 13:24:59.148830 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:24:59.148873 Reconnecting in 30s
+2018/07/30 13:25:29.152448 Connecting to: 127.0.0.1:5001
+2018/07/30 13:25:29.152940 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:25:29.152988 Reconnecting in 30s
+2018/07/30 13:25:59.159460 Connecting to: 127.0.0.1:5001
+2018/07/30 13:25:59.159842 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:25:59.159915 Reconnecting in 30s
+2018/07/30 13:26:29.165805 Connecting to: 127.0.0.1:5001
+2018/07/30 13:26:29.166472 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:26:29.166565 Reconnecting in 30s
+2018/07/30 13:26:59.173166 Connecting to: 127.0.0.1:5001
+2018/07/30 13:26:59.173523 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:26:59.173583 Reconnecting in 30s
+2018/07/30 13:27:29.184533 Connecting to: 127.0.0.1:5001
+2018/07/30 13:27:29.184916 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:27:29.184963 Reconnecting in 30s
+2018/07/30 13:27:59.194346 Connecting to: 127.0.0.1:5001
+2018/07/30 13:27:59.194934 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:27:59.194991 Reconnecting in 30s
+2018/07/30 13:28:29.202220 Connecting to: 127.0.0.1:5001
+2018/07/30 13:28:29.202575 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:28:29.202633 Reconnecting in 30s
+2018/07/30 13:28:59.204369 Connecting to: 127.0.0.1:5001
+2018/07/30 13:28:59.204716 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:28:59.204752 Reconnecting in 30s
+2018/07/30 13:29:29.210445 Connecting to: 127.0.0.1:5001
+2018/07/30 13:29:29.210914 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:29:29.210981 Reconnecting in 30s
+2018/07/30 13:29:59.217169 Connecting to: 127.0.0.1:5001
+2018/07/30 13:29:59.217549 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:29:59.217600 Reconnecting in 30s
+2018/07/30 13:30:29.219934 Connecting to: 127.0.0.1:5001
+2018/07/30 13:30:29.220487 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:30:29.220536 Reconnecting in 30s
+2018/07/30 13:30:59.222771 Connecting to: 127.0.0.1:5001
+2018/07/30 13:30:59.223111 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:30:59.223148 Reconnecting in 30s
+2018/07/30 13:31:29.230488 Connecting to: 127.0.0.1:5001
+2018/07/30 13:31:29.231294 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:31:29.231330 Reconnecting in 30s
+2018/07/30 13:31:59.232743 Connecting to: 127.0.0.1:5001
+2018/07/30 13:31:59.233078 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:31:59.233126 Reconnecting in 30s
+2018/07/30 13:32:29.236433 Connecting to: 127.0.0.1:5001
+2018/07/30 13:32:29.237261 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:32:29.237359 Reconnecting in 30s
+2018/07/30 13:32:59.241185 Connecting to: 127.0.0.1:5001
+2018/07/30 13:32:59.241445 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:32:59.241526 Reconnecting in 30s
+2018/07/30 13:33:29.247466 Connecting to: 127.0.0.1:5001
+2018/07/30 13:33:29.248116 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:33:29.248163 Reconnecting in 30s
+2018/07/30 13:33:59.254627 Connecting to: 127.0.0.1:5001
+2018/07/30 13:33:59.255069 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:33:59.255121 Reconnecting in 30s
+2018/07/30 13:34:29.261267 Connecting to: 127.0.0.1:5001
+2018/07/30 13:34:29.262103 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:34:29.262133 Reconnecting in 30s
+2018/07/30 13:34:59.263815 Connecting to: 127.0.0.1:5001
+2018/07/30 13:34:59.264605 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:34:59.264661 Reconnecting in 30s
+2018/07/30 13:35:29.271258 Connecting to: 127.0.0.1:5001
+2018/07/30 13:35:29.272420 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:35:29.272473 Reconnecting in 30s
+2018/07/30 13:35:59.275864 Connecting to: 127.0.0.1:5001
+2018/07/30 13:35:59.277121 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:35:59.277169 Reconnecting in 30s
+2018/07/30 13:36:29.283692 Connecting to: 127.0.0.1:5001
+2018/07/30 13:36:29.284181 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:36:29.284266 Reconnecting in 30s
+2018/07/30 13:36:59.290397 Connecting to: 127.0.0.1:5001
+2018/07/30 13:36:59.292034 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:36:59.292806 Reconnecting in 30s
+2018/07/30 13:37:29.298473 Connecting to: 127.0.0.1:5001
+2018/07/30 13:37:29.299833 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:37:29.299899 Reconnecting in 30s
+2018/07/30 13:37:59.304135 Connecting to: 127.0.0.1:5001
+2018/07/30 13:37:59.305436 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:37:59.305525 Reconnecting in 30s
+2018/07/30 13:38:29.307061 Connecting to: 127.0.0.1:5001
+2018/07/30 13:38:29.307690 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:38:29.307718 Reconnecting in 30s
+2018/07/30 13:38:59.310467 Connecting to: 127.0.0.1:5001
+2018/07/30 13:38:59.311697 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:38:59.311775 Reconnecting in 30s
+2018/07/30 13:39:29.314416 Connecting to: 127.0.0.1:5001
+2018/07/30 13:39:29.315923 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:39:29.316017 Reconnecting in 30s
+2018/07/30 13:39:59.319888 Connecting to: 127.0.0.1:5001
+2018/07/30 13:39:59.320824 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:39:59.320910 Reconnecting in 30s
+2018/07/30 13:40:29.327161 Connecting to: 127.0.0.1:5001
+2018/07/30 13:40:29.327661 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:40:29.327734 Reconnecting in 30s
+2018/07/30 13:40:59.329715 Connecting to: 127.0.0.1:5001
+2018/07/30 13:40:59.330375 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:40:59.330431 Reconnecting in 30s
+2018/07/30 13:41:29.334261 Connecting to: 127.0.0.1:5001
+2018/07/30 13:41:29.335039 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:41:29.335146 Reconnecting in 30s
+2018/07/30 13:41:59.339502 Connecting to: 127.0.0.1:5001
+2018/07/30 13:41:59.340733 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:41:59.340780 Reconnecting in 30s
+2018/07/30 13:42:29.356402 Connecting to: 127.0.0.1:5001
+2018/07/30 13:42:29.357697 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:42:29.357762 Reconnecting in 30s
+2018/07/30 13:42:59.365514 Connecting to: 127.0.0.1:5001
+2018/07/30 13:42:59.365787 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:42:59.365849 Reconnecting in 30s
+2018/07/30 13:43:29.371953 Connecting to: 127.0.0.1:5001
+2018/07/30 13:43:29.372421 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:43:29.372461 Reconnecting in 30s
+2018/07/30 13:43:59.377183 Connecting to: 127.0.0.1:5001
+2018/07/30 13:43:59.377733 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:43:59.377780 Reconnecting in 30s
+2018/07/30 13:44:29.380450 Connecting to: 127.0.0.1:5001
+2018/07/30 13:44:29.380803 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:44:29.380834 Reconnecting in 30s
+2018/07/30 13:44:59.387051 Connecting to: 127.0.0.1:5001
+2018/07/30 13:44:59.387675 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:44:59.387725 Reconnecting in 30s
+2018/07/30 13:45:29.392090 Connecting to: 127.0.0.1:5001
+2018/07/30 13:45:29.393258 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:45:29.393307 Reconnecting in 30s
+2018/07/30 13:45:59.398042 Connecting to: 127.0.0.1:5001
+2018/07/30 13:45:59.398469 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:45:59.398571 Reconnecting in 30s
+2018/07/30 13:46:29.404866 Connecting to: 127.0.0.1:5001
+2018/07/30 13:46:29.405831 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:46:29.405875 Reconnecting in 30s
+2018/07/30 13:46:59.407026 Connecting to: 127.0.0.1:5001
+2018/07/30 13:46:59.408474 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:46:59.408515 Reconnecting in 30s
+2018/07/30 13:47:29.410628 Connecting to: 127.0.0.1:5001
+2018/07/30 13:47:29.411204 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:47:29.411275 Reconnecting in 30s
+2018/07/30 13:47:59.416367 Connecting to: 127.0.0.1:5001
+2018/07/30 13:47:59.416841 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:47:59.416896 Reconnecting in 30s
+2018/07/30 13:48:29.421494 Connecting to: 127.0.0.1:5001
+2018/07/30 13:48:29.422398 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:48:29.422440 Reconnecting in 30s
+2018/07/30 13:48:59.424154 Connecting to: 127.0.0.1:5001
+2018/07/30 13:48:59.425542 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:48:59.425588 Reconnecting in 30s
+2018/07/30 13:49:29.426574 Connecting to: 127.0.0.1:5001
+2018/07/30 13:49:29.427076 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:49:29.427109 Reconnecting in 30s
+2018/07/30 13:49:59.433372 Connecting to: 127.0.0.1:5001
+2018/07/30 13:49:59.434661 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:49:59.434712 Reconnecting in 30s
+2018/07/30 13:50:29.437412 Connecting to: 127.0.0.1:5001
+2018/07/30 13:50:29.438914 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:50:29.439022 Reconnecting in 30s
+2018/07/30 13:50:59.445048 Connecting to: 127.0.0.1:5001
+2018/07/30 13:50:59.445619 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:50:59.445677 Reconnecting in 30s
+2018/07/30 13:51:29.451259 Connecting to: 127.0.0.1:5001
+2018/07/30 13:51:29.452211 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:51:29.452503 Reconnecting in 30s
+2018/07/30 13:51:59.459025 Connecting to: 127.0.0.1:5001
+2018/07/30 13:51:59.459745 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:51:59.459800 Reconnecting in 30s
+2018/07/30 13:52:29.464770 Connecting to: 127.0.0.1:5001
+2018/07/30 13:52:29.465482 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:52:29.465516 Reconnecting in 30s
+2018/07/30 13:52:59.471869 Connecting to: 127.0.0.1:5001
+2018/07/30 13:52:59.473265 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:52:59.473328 Reconnecting in 30s
+2018/07/30 13:53:29.478947 Connecting to: 127.0.0.1:5001
+2018/07/30 13:53:29.479381 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:53:29.479441 Reconnecting in 30s
+2018/07/30 13:53:59.480535 Connecting to: 127.0.0.1:5001
+2018/07/30 13:53:59.481538 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:53:59.481599 Reconnecting in 30s
+2018/07/30 13:54:29.488752 Connecting to: 127.0.0.1:5001
+2018/07/30 13:54:29.491024 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:54:29.491132 Reconnecting in 30s
+2018/07/30 13:54:59.493545 Connecting to: 127.0.0.1:5001
+2018/07/30 13:54:59.493914 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:54:59.493949 Reconnecting in 30s
+2018/07/30 13:55:29.498821 Connecting to: 127.0.0.1:5001
+2018/07/30 13:55:29.500572 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:55:29.500659 Reconnecting in 30s
+2018/07/30 13:55:59.504015 Connecting to: 127.0.0.1:5001
+2018/07/30 13:55:59.504413 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:55:59.504448 Reconnecting in 30s
+2018/07/30 13:56:29.508790 Connecting to: 127.0.0.1:5001
+2018/07/30 13:56:29.509224 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:56:29.509268 Reconnecting in 30s
+2018/07/30 13:56:59.513779 Connecting to: 127.0.0.1:5001
+2018/07/30 13:56:59.515098 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:56:59.515165 Reconnecting in 30s
+2018/07/30 13:57:29.529056 Connecting to: 127.0.0.1:5001
+2018/07/30 13:57:29.529882 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:57:29.529934 Reconnecting in 30s
+2018/07/30 13:57:59.538043 Connecting to: 127.0.0.1:5001
+2018/07/30 13:57:59.538503 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:57:59.538543 Reconnecting in 30s
+2018/07/30 13:58:29.543971 Connecting to: 127.0.0.1:5001
+2018/07/30 13:58:29.544779 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:58:29.544829 Reconnecting in 30s
+2018/07/30 13:58:59.546061 Connecting to: 127.0.0.1:5001
+2018/07/30 13:58:59.546431 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:58:59.546458 Reconnecting in 30s
+2018/07/30 13:59:29.551325 Connecting to: 127.0.0.1:5001
+2018/07/30 13:59:29.551601 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:59:29.551665 Reconnecting in 30s
+2018/07/30 13:59:59.553338 Connecting to: 127.0.0.1:5001
+2018/07/30 13:59:59.553621 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 13:59:59.553654 Reconnecting in 30s
+2018/07/30 14:00:29.556143 Connecting to: 127.0.0.1:5001
+2018/07/30 14:00:29.556732 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 14:00:29.556782 Reconnecting in 30s
+2018/07/30 14:00:59.563079 Connecting to: 127.0.0.1:5001
+2018/07/30 14:00:59.563744 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 14:00:59.563806 Reconnecting in 30s
+2018/07/30 14:01:29.567105 Connecting to: 127.0.0.1:5001
+2018/07/30 14:01:29.567661 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 14:01:29.568202 Reconnecting in 30s
+2018/07/30 14:01:59.573183 Connecting to: 127.0.0.1:5001
+2018/07/30 14:01:59.573568 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 14:01:59.573625 Reconnecting in 30s
+2018/07/30 14:02:29.576751 Connecting to: 127.0.0.1:5001
+2018/07/30 14:02:29.577256 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 14:02:29.577308 Reconnecting in 30s
+2018/07/30 14:02:59.581971 Connecting to: 127.0.0.1:5001
+2018/07/30 14:02:59.582326 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 14:02:59.582368 Reconnecting in 30s
+2018/07/30 14:03:29.584915 Connecting to: 127.0.0.1:5001
+2018/07/30 14:03:29.585301 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 14:03:29.585340 Reconnecting in 30s
+2018/07/30 14:03:59.591567 Connecting to: 127.0.0.1:5001
+2018/07/30 14:03:59.592122 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 14:03:59.592167 Reconnecting in 30s
+2018/07/30 14:04:29.596654 Connecting to: 127.0.0.1:5001
+2018/07/30 14:04:29.596993 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 14:04:29.597637 Reconnecting in 30s
+2018/07/30 14:04:59.603761 Connecting to: 127.0.0.1:5001
+2018/07/30 14:04:59.604283 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 14:04:59.604337 Reconnecting in 30s
+2018/07/30 14:05:29.610257 Connecting to: 127.0.0.1:5001
+2018/07/30 14:05:29.610626 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 14:05:29.610668 Reconnecting in 30s
+2018/07/30 14:05:59.612240 Connecting to: 127.0.0.1:5001
+2018/07/30 14:05:59.612460 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 14:05:59.612511 Reconnecting in 30s
+2018/07/30 14:06:29.616853 Connecting to: 127.0.0.1:5001
+2018/07/30 14:06:29.617602 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 14:06:29.617660 Reconnecting in 30s
+2018/07/30 14:06:59.618674 Connecting to: 127.0.0.1:5001
+2018/07/30 14:06:59.618958 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 14:06:59.618984 Reconnecting in 30s
+2018/07/30 14:07:29.625260 Connecting to: 127.0.0.1:5001
+2018/07/30 14:07:29.625948 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 14:07:29.626012 Reconnecting in 30s
+2018/07/30 17:27:24.442293 Created session
+2018/07/30 17:27:24.446656 Connecting to: 127.0.0.1:5001
+2018/07/30 17:27:24.446961 Failed to connect: dial tcp 127.0.0.1:5001: connect: connection refused
+2018/07/30 17:27:24.446998 Reconnecting in 30s
