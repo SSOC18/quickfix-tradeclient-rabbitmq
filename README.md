@@ -1,9 +1,7 @@
 QuickFix TradeClient Web User Interface
 -------------------------------------------
 
-Web user interface + quickfix trade client
-
-The web UI takes an order from the user and passes it to RabbitMQ.
+Quickfix trade client
 
 The trade client subscribes to RabbitMQ and executes orders received.
 
@@ -23,22 +21,14 @@ Usage
 
 ```
 make run_tradeclient
-make run_webui
 ```
 
 Other
 ~~~~~
 
-Setting Up the User Interface:
-Can use makefile (make sure form.html is in the same bin folder)
-
-OR
-webui.go sends order through localhost:8080
-RabbitMQ server running on localhost:5672
-tradeclient.go back end interface
-
+RabbitMQ server running on localhost:5672 (standard port)
 
 (The RabbitMQ server scripts are installed into /usr/local/sbin. This is not automatically added to your path, so you may wish to add
 PATH=$PATH:/usr/local/sbin to your .bash_profile or .profile. The server can then be started with rabbitmq-server.)
 
-The back end tradeclient receives messages from the RabbitMQ server and translates using FIX messages protocols.
+The tradeclient receives messages from the RabbitMQ server and translates using FIX messages protocols.
